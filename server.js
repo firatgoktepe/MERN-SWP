@@ -14,7 +14,7 @@ const app = express();
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json({ extended: false }));
 
-//MongoDB
+//MongoDataBase
 const dbUrl ="mongodb+srv://firatgoktepe:MYPASSWORD@mern-tutorial.4k7wm.mongodb.net/react-shop?retryWrites=true&w=majority"
 
 const connectDB = async () => {
