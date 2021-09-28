@@ -11,7 +11,7 @@ const Footer = () => {
 
 			<div className="footer-left">
 
-				<h3>Company<span>logo</span></h3>
+				<h3>Firat<span>logo</span></h3>
 
 				<p className="footer-links">
 
@@ -23,14 +23,14 @@ const Footer = () => {
 			
 				</p>
 
-				<p className="footer-company-name">Company Name © 2020</p>
+				<p className="footer-company-name">Firat Goktepe © 2020</p>
 			</div>
 
 			<div className="footer-center">
 
 				<div>
                     <FontAwesomeIcon icon={faMarker} />
-					<p><span>444 S. Cedros Ave</span> Solana Beach, California</p>
+					<p><span>Site Mh. Karacay Sk.</span> Istanbul, Turkey</p>
 				</div>
 
 				<div>
@@ -40,7 +40,7 @@ const Footer = () => {
 
 				<div>
                     <FontAwesomeIcon icon={faEnvelope} />
-					<p><a href="mailto:support@company.com">support@company.com</a></p>
+					<p><a href="mailto:support@company.com">firatgoktepe1986@gmail.com</a></p>
 				</div>
 
 			</div>
@@ -48,7 +48,7 @@ const Footer = () => {
 			<div className="footer-right">
 
 				<p className="footer-company-about">
-					<span>About the company</span>
+					<span>About me</span>
 					Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
 				</p>
 

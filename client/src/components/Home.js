@@ -1,13 +1,13 @@
 import React from 'react'
+import About from './About'
 import Contact from './Contact'
 import './Home.css'
 
 const Home = () => {
     return (
         <React.Fragment>
-            <div className="container">
-                <h1 className="title">Title</h1>
-            </div>
+            
+            <About />
 
             <Contact />
 

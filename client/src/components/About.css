@@ -1,0 +1,24 @@
+.content {
+  display: flex;
+  gap: 5%;
+  width: 100%;
+  justify-content: center;
+}
+
+.content img {
+  width: 20rem;
+  border-radius: 50%;
+  height: fit-content;
+}
+.content ul {
+  height: fit-content;
+  width: 20rem;
+  list-style-type: circle;
+}
+
+@media (max-width: 800px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+}
