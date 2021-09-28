@@ -1,6 +1,5 @@
 <h1 align="center">MERN-SWP</h1>
 
-<p align="center"><img src="https://github.com/firatgoktepe/MERN-SWP" alt="project"></p>
 
 <p>a Full stack Single Web App (SWP) using MERN (Mongo-Express-React-Node) tech.</p>
 
